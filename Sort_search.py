@@ -90,11 +90,11 @@ def binaryS(value, List, original):
                     break
         return result
 
-values=[138, 2, 24, 57, 57, 3]
+values=[138, 2, 24, 57, 57, 32]
 bubble(values)
-values=[138, 2, 24, 57, 57, 3]
+values=[138, 2, 24, 57, 57, 32]
 callQ(values)
-values=[138, 2, 24, 57, 57, 3]
+values=[138, 2, 24, 57, 57, 32]
 insert(values)
 
     
